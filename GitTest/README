@@ -1,0 +1,10 @@
+# Simple Interest Calculator
+
+This project provides a simple Bash script to calculate simple interest. It is designed for educational and micro-finance applications.
+
+## Usage
+
+To use the script, run the following command in your terminal:
+
+```bash
+bash simple-interest.sh
